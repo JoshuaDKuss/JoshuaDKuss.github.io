@@ -1,7 +1,7 @@
 #container {
 	margin-top: 18px;
-	margin-left: 180px;
-	margin-right: 180px;
+	margin-left: 120px;
+	margin-right: 120px;
 
 	padding: 10px 150px 10px 150px;
 
@@ -16,33 +16,33 @@
 }
 
 h1 {
-	font-size: 50px;
+	font-size: 48px;
 	margin-bottom: -23px;
 }
 
 h2 {
-	font-size: 20px;
+	font-size: 13px;
 	margin-bottom: -5px;
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 22px;
 	margin-bottom: -8px;
 }
 
 h4 {
-	font-size: 23px;
+	font-size: 20px;
 	margin-bottom: -10px;
 }
 
 li {
-	font-size: 18px;
+	font-size: 17px;
 	text-align: center;
 }
 
 #button {
-	margin-left: 40%;
-	margin-right: 40%;
+	margin-left: 33%;
+	margin-right: 33%;
 	background-color: #C4CECD;
 
 	border-radius: 15px;
