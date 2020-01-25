@@ -8,7 +8,7 @@
 	border-radius: 12px;
 	background-color: #D2B48C;
 
-	text-align: center;
+	text-align: left;
 }
 
 #content-professional {
@@ -37,7 +37,7 @@ h4 {
 
 li {
 	font-size: 17px;
-	text-align: center;
+	text-align: left;
 }
 
 #button {
